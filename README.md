@@ -5,9 +5,6 @@
 3. GET /api/user/{userId}/avatar
 4. DELETE /api/user/{userId}/avatar
 
-# Wat hasn't been done
-I didn't cover all the test cases from shortage of time.:)
-
 # How to run/test
 
 As the program gets running, it'll be listening to 3000 port.
