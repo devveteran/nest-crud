@@ -28,7 +28,7 @@ Example :
 
     This will send back register a new user to mongodb and send back registerd user information which would be the similar to above if succeded.
     At the same time, RabbitMQ message is sent to queue named 'andrei' and a confirmation email is sent to the email account given above (in this example, andrei@mail.com).
-    * I checked RMQ message working, but not with SMTP.
+    * I checked RMQ message working
 
 # 2. GET /api/user/{userId}
 
