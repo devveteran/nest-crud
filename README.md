@@ -21,8 +21,8 @@ Example :
     http://localhost:3000/api/users
     payload : {
         "id" : "1",
-        "name" : "andrei",
-        "email" : "andrei@mail.com",
+        "name" : "aadev",
+        "email" : "aadev@mail.com",
         "avatar" : ""
     }
 
